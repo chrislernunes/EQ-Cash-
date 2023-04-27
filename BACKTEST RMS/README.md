@@ -2,13 +2,13 @@ This project imports Trade Log data and breaks it down into required metrics to 
 
 Contents:
 
-- Import Trade Data from CSV.
-- Calculating Annual Ratios 
-- Max Profit/Drawdown 
-- Stratergy Output
-- Calculating Moving Averages
+1.) Import Trade Data from CSV.
+2.) Calculating Annual Ratios 
+3.) Max Profit/Drawdown 
+4.) Stratergy Output
+5.) Calculating Moving Averages
 
-**
+***
 
 ### Disclaimer
 
